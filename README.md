@@ -5,5 +5,8 @@
   </a>
 </h1>
 
-
-
+<h1 align="center">
+  <a href="https://github.com/raveerocks/android">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+Android+Geek+👋;&center=true&size=30">
+  </a>
+</h1>
